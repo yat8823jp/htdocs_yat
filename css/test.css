@@ -1,0 +1,13 @@
+.mod-title {
+	top: 50px;
+	left: 30%;
+	font-size: 120px;
+	transition: .5s;
+	position: absolute;
+}
+.mod-test {
+	top: 500px;
+	left: 500px;
+	transition: .5s;
+	position: absolute;
+}
